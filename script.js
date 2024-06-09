@@ -20,6 +20,7 @@ function toMenu() {
         status = "menu";
         $(".mods").removeClass("activeWindow");
         $(".panel").removeClass("hiddenPanel");
+        $(".screenshots").removeClass("activeWindow");
     }
 };
 
